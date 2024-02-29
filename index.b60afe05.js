@@ -1,0 +1,2 @@
+var e=document.querySelector(".icon--close"),t=document.querySelector('a[href="#menu"]'),r=document.querySelector("main"),n=document.querySelector(".footer"),o=function(){r.toggleAttribute("hidden"),n.toggleAttribute("hidden")};t.addEventListener("click",o),e.addEventListener("click",o);var c=document.querySelector("form");c.addEventListener("submit",function(){c.reset()});
+//# sourceMappingURL=index.b60afe05.js.map
